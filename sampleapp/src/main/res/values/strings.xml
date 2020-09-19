@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+
+    <string name="edit_insert_query">Insert query:</string>
+    <string name="bttn_get_video">Get Video</string>
+    <string name="bttn_ok">OK</string>
+</resources>

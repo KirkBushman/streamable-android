@@ -10,13 +10,13 @@ import kotlinx.android.parcel.Parcelize
 data class File(
 
     @Json(name = "status")
-    val status: Int,
+    val status: Int?,
 
     @Json(name = "url")
     val url: String?,
 
     @Json(name = "framerate")
-    val framerate: Int,
+    val framerate: Float,
 
     @Json(name = "width")
     val width: Int,
