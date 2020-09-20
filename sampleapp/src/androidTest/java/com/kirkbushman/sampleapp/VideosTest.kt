@@ -16,8 +16,6 @@ class VideosTest {
         private val shortcodesArr = arrayOf(
             "wlia9l",
             "4z00y5",
-            "spxw0o",
-            "tysqmq",
             "mejxpp",
             "4osp8y",
             "wdxml",
@@ -26,7 +24,8 @@ class VideosTest {
             "1sdk97",
             "8vov8x",
             "7s1uol",
-            "9tdxbm"
+            "9tdxbm",
+            "ghx4wp"
         )
     }
 

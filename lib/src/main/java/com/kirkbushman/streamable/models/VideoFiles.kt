@@ -13,7 +13,7 @@ data class VideoFiles(
     val mp4: File,
 
     @Json(name = "mp4-mobile")
-    val mp4Mobile: File,
+    val mp4Mobile: File?,
 
     @Json(name = "original")
     val original: File
